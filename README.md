@@ -17,6 +17,7 @@
 - 📤 **Track Applications**: Apply and monitor application status in real time.
 - 👥 **Networking**: Send and manage connection requests with fellow developers.
 - 📧 **Email Notifications**: Get notified when your application is accepted or rejected.
+- 🧠 **AI Resume Generator**: Automatically generate a professional resume using AI and download it as a PDF.
 
 ### 🏢 Companies
 
@@ -42,6 +43,7 @@
 - 🔐 **OTP Authentication**: Enhanced secure user login.
 - 🧭 **Role-based Dashboards**: Custom UI/UX for developers, companies, and admins.
 - 💬 **Developer Networking**: Connect with peers using a connection request system (accept/reject requests).
+- 🧠 **AI Resume Generation**: Instantly generate a professional resume using AI and download it as a PDF.
 
 ---
 
@@ -55,6 +57,7 @@
 | **Auth**     | JWT, OTP-based verification    |
 | **Email**    | Nodemailer                     |
 | **Media**    | Cloudinary (file uploads)      |
+| **PDF/AI**   | AI-based resume generator, PDF export tool |
 
 ---
 
